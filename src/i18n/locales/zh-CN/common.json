@@ -1,0 +1,18 @@
+{
+  "title": "标题",
+  "shortCode": "短代码",
+  "content": "内容",
+  "active": "启用",
+  "save": "保存",
+  "create": "创建",
+  "placeholder": "请输入 {{name}}",
+  "createATemplate": "创建模版",
+  "editTemplate": "编辑模版",
+  "action": "操作",
+  "edit": "编辑",
+  "delete": "删除",
+  "confirmDelete": "确定删除吗？",
+  "cancel": "取消",
+  "unableToCreateNewTemplate": "无法创建模版",
+  "existingShortCode": "已经存在短代码: {{shortCode}}"
+}

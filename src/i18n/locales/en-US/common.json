@@ -1,0 +1,18 @@
+{
+  "title": "Title",
+  "shortCode": "ShortCode",
+  "content": "Content",
+  "active": "Active",
+  "save": "Save",
+  "create": "Create",
+  "placeholder": "Please Input {{name}}",
+  "createATemplate": "Create Template",
+  "editTemplate": "Edit Template",
+  "action": "Actions",
+  "edit": "Edit",
+  "delete": "Delete",
+  "confirmDelete": "Are you sure to delete it?",
+  "cancel": "Cancel",
+  "unableToCreateNewTemplate": "Unable to create template",
+  "existingShortCode": "The same short code already exists: {{shortCode}}"
+}
