@@ -11,14 +11,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CRMChatReactComponent/grouplist.git"
+    "url": "git+https://github.com/CRMChatReactComponent/messages-template.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CRMChatReactComponent/grouplist/issues"
+    "url": "https://github.com/CRMChatReactComponent/messages-template/issues"
   },
   "author": "Evan You",
-  "homepage": "https://group-list-component.pages.dev/",
+  "homepage": "https://messages-template-component.pages.dev/",
   "scripts": {
     "serve": "pnpm run sb",
     "build": "vite build && tsc -p ./tsconfig.dist.json -emitDeclarationOnly && tsc-alias -p ./tsconfig.dist.json",
